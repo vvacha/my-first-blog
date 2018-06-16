@@ -1,4 +1,10 @@
-Error: That port is already in use.
-
-#[QPython] The terminal will be closed in 3 seconds ...
-
+[16/Jun/2018 15:05:24] "HEAD / HTTP/1.1" 200 1195
+[16/Jun/2018 15:05:24] "GET / HTTP/1.1" 200 1195
+Not Found: /favicon.ico
+[16/Jun/2018 15:05:24] "GET /favicon.ico HTTP/1.1" 404 2236
+[16/Jun/2018 15:07:12] "GET / HTTP/1.1" 200 1585
+[16/Jun/2018 15:07:19] "GET / HTTP/1.1" 200 1585
+[16/Jun/2018 15:07:22] "GET / HTTP/1.1" 200 1585
+[16/Jun/2018 15:07:23] "GET / HTTP/1.1" 200 1585
+[16/Jun/2018 15:07:23] "GET / HTTP/1.1" 200 1585
+[16/Jun/2018 15:09:38] "GET / HTTP/1.1" 200 755
